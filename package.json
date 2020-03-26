@@ -2,6 +2,7 @@
     "name": "solarized-sunset",
     "displayName": "Solarized Sunset Theme",
     "description": "A flat theme based on Solarized Dark",
+    "publisher": "jansim",
     "version": "1.0.0",
     "homepage": "https://github.com/jansim/solarized-sunset",
     "repository": {
