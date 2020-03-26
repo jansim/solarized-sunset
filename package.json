@@ -1,0 +1,21 @@
+{
+    "name": "solarized-sunset",
+    "displayName": "Solarized Sunset",
+    "description": "A flat theme based on Solarized Dark",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.43.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Solarized Sunset",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Solarized Sunset-color-theme.json"
+            }
+        ]
+    }
+}
