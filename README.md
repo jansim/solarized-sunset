@@ -1,3 +1,5 @@
+![Icon of the Theme showing a stylized Sunset](icon.png)
+
 # Solarized Sunset Theme
 > A flat theme based on Solarized Dark
 

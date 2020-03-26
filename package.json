@@ -9,6 +9,7 @@
         "type": "git",
         "url": "https://github.com/jansim/solarized-sunset.git"
     },
+    "icon": "icon.png",
     "engines": {
         "vscode": "^1.43.0"
     },
