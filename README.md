@@ -1,13 +1,15 @@
-# README
-## This is the README for your extension "solarized-sunset"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+# Solarized Sunset Theme
+> A flat theme based on Solarized Dark
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+![Screenshot of the Theme](screenshot.png)
+Font: *Source Code Pro* with a weight of 600.
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+## Installing the Theme
+1. Open the Command Palette
+2. Write / Paste `ext install solarized-sunset` and hit Enter
+3. Click Install
 
-**Enjoy!**
+## Activating the Theme
+1. Open the Command Palette
+2. Write / Paste `Preferences: Color Theme` and hit Enter
+3. Pick `Solarized Sunset` from the list
