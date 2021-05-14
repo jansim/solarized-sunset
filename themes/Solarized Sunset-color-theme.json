@@ -33,7 +33,7 @@
 		"editorMarkerNavigationError.background": "#ab395b",
 		"editorMarkerNavigationWarning.background": "#5b7e7a",
 		"editorWhitespace.foreground": "#93a1a180",
-		"editorWidget.background": "#002b36",
+		"editorWidget.background": "#00212b",
 		"editorWidget.resizeBorder": "#80cbc4",
 		"errorForeground": "#ffeaea",
 		"focusBorder": "#2aa19899",
