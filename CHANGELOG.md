@@ -4,6 +4,9 @@ All notable changes to the "solarized-sunset" extension will be documented in th
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## [1.4.0]
+- 🌈 Add colors for native bracket highlighting (enable it by setting `"editor.bracketPairColorization.enabled"` to `true`)
+
 ## [1.3.0]
 - | Decrease intensity of rulers in editor
 - 🌘 Darker bg for editorWidgets (i.e. in notebooks)
