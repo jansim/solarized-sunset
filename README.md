@@ -18,3 +18,7 @@ Font: *Source Code Pro* with a weight of 600.
 
 ## Attribution
 Icon based upon original icon by [Bedon Style](https://www.iconfinder.com/R_studio) licensed under [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/).
+
+## Publishing the Extension
+- Information on publishing to vscode registry [here](https://code.visualstudio.com/api/working-with-extensions/publishing-extension)
+- Information on publishing to open-vsx [here](https://github.com/eclipse/openvsx/wiki/Publishing-Extensions)
