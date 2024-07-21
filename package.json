@@ -4,7 +4,7 @@
     "description": "A flat theme based on Solarized Dark",
     "publisher": "jansim",
     "license": "MIT",
-    "version": "1.4.1",
+    "version": "1.5.0",
     "homepage": "https://github.com/jansim/solarized-sunset",
     "repository": {
         "type": "git",
@@ -23,6 +23,11 @@
                 "label": "Solarized Sunset",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Solarized Sunset-color-theme.json"
+            },
+            {
+                "label": "Solarized Sunrise",
+                "uiTheme": "vs",
+                "path": "./themes/Solarized Sunrise-color-theme.json"
             }
         ]
     }

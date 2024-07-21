@@ -4,6 +4,9 @@ All notable changes to the "solarized-sunset" extension will be documented in th
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## [1.5.0]
+- 🌅 Add a new light variant, "Solarized Sunrise"
+
 ## [1.4.0]
 - 🌈 Add colors for native bracket highlighting (enable it by setting `"editor.bracketPairColorization.enabled"` to `true`)
 
